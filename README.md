@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0965-unique-email-addresses](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0965-unique-email-addresses) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## String
 |  |
 | ------- |
+| [0965-unique-email-addresses](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0965-unique-email-addresses) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Stack
 |  |
@@ -19,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+## Array
+|  |
+| ------- |
+| [0965-unique-email-addresses](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0965-unique-email-addresses) |
 <!---LeetCode Topics End-->
