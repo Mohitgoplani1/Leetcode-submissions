@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0316-remove-duplicate-letters) |
 | [0965-unique-email-addresses](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0965-unique-email-addresses) |
+| [1260-day-of-the-year](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1260-day-of-the-year) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Stack
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1260-day-of-the-year](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1260-day-of-the-year) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3201-distribute-candies-among-children-ii) |
 ## Combinatorics
 |  |
