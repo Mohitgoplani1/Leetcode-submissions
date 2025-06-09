@@ -93,4 +93,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0068-text-justification) |
+## Math
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3201-distribute-candies-among-children-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3201-distribute-candies-among-children-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
