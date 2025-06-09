@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-day-of-the-year](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1260-day-of-the-year) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3201-distribute-candies-among-children-ii) |
 ## Combinatorics
 |  |
