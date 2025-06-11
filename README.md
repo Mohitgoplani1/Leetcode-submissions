@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0051-n-queens](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0068-text-justification) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
