@@ -174,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0051-n-queens) |
+## Database
+|  |
+| ------- |
+| [1415-students-and-examinations](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1415-students-and-examinations) |
 <!---LeetCode Topics End-->
