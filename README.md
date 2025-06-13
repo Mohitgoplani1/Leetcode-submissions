@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [1338-queries-quality-and-percentage](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1415-students-and-examinations) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1664-find-users-with-valid-e-mails) |
