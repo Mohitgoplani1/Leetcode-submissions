@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0316-remove-duplicate-letters) |
+| [0630-course-schedule-iii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0630-course-schedule-iii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2681-put-marbles-in-bags) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0174-dungeon-game) |
 | [0217-contains-duplicate](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0630-course-schedule-iii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0630-course-schedule-iii) |
 | [0965-unique-email-addresses](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0965-unique-email-addresses) |
 | [1386-shift-2d-grid](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1386-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0630-course-schedule-iii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0630-course-schedule-iii) |
 | [2681-put-marbles-in-bags](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2681-put-marbles-in-bags) |
 ## Union Find
 |  |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0630-course-schedule-iii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0630-course-schedule-iii) |
 | [2681-put-marbles-in-bags](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2681-put-marbles-in-bags) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Depth-First Search
