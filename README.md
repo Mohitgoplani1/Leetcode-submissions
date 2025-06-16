@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 ## Sorting
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0174-dungeon-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0174-dungeon-game) |
+| [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 ## Breadth-First Search
 |  |
 | ------- |
