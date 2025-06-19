@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0726-number-of-atoms) |
 | [0965-unique-email-addresses](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0965-unique-email-addresses) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1635-number-of-good-pairs](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1635-number-of-good-pairs) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0945-snakes-and-ladders](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0945-snakes-and-ladders) |
 | [0965-unique-email-addresses](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0965-unique-email-addresses) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1386-shift-2d-grid](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1386-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1635-number-of-good-pairs](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1635-number-of-good-pairs) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Matrix
