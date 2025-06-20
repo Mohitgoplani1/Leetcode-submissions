@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1135-customers-who-bought-all-products](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1135-customers-who-bought-all-products) |
 | [1182-game-play-analysis-iv](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1182-game-play-analysis-iv) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1415-students-and-examinations) |
