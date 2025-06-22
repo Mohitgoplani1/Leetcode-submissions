@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0180-consecutive-numbers) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0610-triangle-judgement](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0610-triangle-judgement) |
+| [0626-exchange-seats](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1155-product-sales-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1182-game-play-analysis-iv) |
