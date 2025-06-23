@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1635-number-of-good-pairs) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Counting
