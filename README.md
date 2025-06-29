@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1635-number-of-good-pairs](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1635-number-of-good-pairs) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2280-count-good-triplets-in-an-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Binary Search
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0630-course-schedule-iii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0726-number-of-atoms) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2681-put-marbles-in-bags](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2681-put-marbles-in-bags) |
