@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1635-number-of-good-pairs) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Memoization
 |  |
