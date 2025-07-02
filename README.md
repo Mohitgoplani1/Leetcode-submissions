@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0316-remove-duplicate-letters) |
 | [0630-course-schedule-iii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0630-course-schedule-iii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0051-n-queens](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0053-maximum-subarray) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
