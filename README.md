@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0316-remove-duplicate-letters) |
 | [0630-course-schedule-iii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0630-course-schedule-iii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0051-n-queens](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0068-text-justification) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0174-dungeon-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0174-dungeon-game) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0174-dungeon-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0174-dungeon-game) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
