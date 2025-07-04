@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0068-text-justification](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0068-text-justification) |
+| [0087-scramble-string](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0087-scramble-string) |
 | [0179-largest-number](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0290-word-pattern) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0055-jump-game) |
+| [0087-scramble-string](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0087-scramble-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0174-dungeon-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0174-dungeon-game) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
