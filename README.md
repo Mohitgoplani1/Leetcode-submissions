@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1635-number-of-good-pairs](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1635-number-of-good-pairs) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1635-number-of-good-pairs](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1635-number-of-good-pairs) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -346,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
