@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0012-integer-to-roman) |
 | [1260-day-of-the-year](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1260-day-of-the-year) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1635-number-of-good-pairs) |
@@ -395,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
