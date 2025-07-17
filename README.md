@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0087-scramble-string) |
 | [0179-largest-number](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0214-shortest-palindrome) |
 | [0290-word-pattern](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0316-remove-duplicate-letters) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0535-encode-and-decode-tinyurl) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0214-shortest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0535-encode-and-decode-tinyurl) |
 ## Bitmask
 |  |
@@ -413,4 +415,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
