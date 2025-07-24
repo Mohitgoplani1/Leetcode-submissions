@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0012-integer-to-roman) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0290-word-pattern) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0012-integer-to-roman) |
 | [0068-text-justification](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0068-text-justification) |
 | [0087-scramble-string](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0087-scramble-string) |
+| [0139-word-break](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0214-shortest-palindrome) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0068-text-justification) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0198-house-robber) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0087-scramble-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0198-house-robber) |
 | [0691-stickers-to-spell-word](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0691-stickers-to-spell-word) |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Simulation
@@ -371,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0139-word-break) |
 | [0691-stickers-to-spell-word](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0691-stickers-to-spell-word) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Binary Indexed Tree
