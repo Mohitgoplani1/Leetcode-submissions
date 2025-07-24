@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0087-scramble-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0174-dungeon-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0174-dungeon-game) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [1260-day-of-the-year](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1260-day-of-the-year) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0691-stickers-to-spell-word](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0691-stickers-to-spell-word) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Binary Indexed Tree
