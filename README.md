@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [2478-longest-nice-subarray](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2478-longest-nice-subarray) |
 | [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Breadth-First Search
