@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0726-number-of-atoms) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1488-sort-integers-by-the-power-value](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1488-sort-integers-by-the-power-value) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0198-house-robber) |
 | [0691-stickers-to-spell-word](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0691-stickers-to-spell-word) |
 | [1236-n-th-tribonacci-number](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1236-n-th-tribonacci-number) |
+| [1488-sort-integers-by-the-power-value](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1488-sort-integers-by-the-power-value) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0139-word-break) |
 | [0691-stickers-to-spell-word](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0691-stickers-to-spell-word) |
 | [1236-n-th-tribonacci-number](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1236-n-th-tribonacci-number) |
+| [1488-sort-integers-by-the-power-value](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1488-sort-integers-by-the-power-value) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Binary Indexed Tree
 |  |
