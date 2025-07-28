@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0203-remove-linked-list-elements) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Design
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0203-remove-linked-list-elements) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
