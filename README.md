@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3799-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Counting
 |  |
 | ------- |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0203-remove-linked-list-elements) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Design
 |  |
 | ------- |
