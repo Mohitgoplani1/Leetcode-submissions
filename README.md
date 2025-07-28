@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1635-number-of-good-pairs) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0691-stickers-to-spell-word](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0691-stickers-to-spell-word) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2478-longest-nice-subarray](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2478-longest-nice-subarray) |
 | [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0051-n-queens) |
 | [0691-stickers-to-spell-word](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0691-stickers-to-spell-word) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Database
 |  |
 | ------- |
