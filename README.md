@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0386-lexicographical-numbers](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0386-lexicographical-numbers) |
+| [0547-number-of-provinces](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Trie
 |  |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0112-path-sum) |
+| [0547-number-of-provinces](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0945-snakes-and-ladders](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0945-snakes-and-ladders) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
@@ -458,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0214-shortest-palindrome) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
