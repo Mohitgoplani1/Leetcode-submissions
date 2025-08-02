@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 ## Monotonic Stack
 |  |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0174-dungeon-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0945-snakes-and-ladders](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0945-snakes-and-ladders) |
 | [1386-shift-2d-grid](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1386-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0945-snakes-and-ladders](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0945-snakes-and-ladders) |
