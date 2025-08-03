@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0945-snakes-and-ladders) |
 | [0965-unique-email-addresses](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0965-unique-email-addresses) |
 | [1036-rotting-oranges](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1386-shift-2d-grid](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1386-shift-2d-grid) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1073-number-of-enclaves](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
 ## Trie
 |  |
 | ------- |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0542-01-matrix) |
 | [0945-snakes-and-ladders](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
 | [1386-shift-2d-grid](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1386-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0945-snakes-and-ladders](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 ## Sliding Window
 |  |
