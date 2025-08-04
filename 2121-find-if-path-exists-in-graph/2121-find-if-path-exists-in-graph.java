@@ -18,6 +18,7 @@ class Solution {
         for(int i:adj.get(src)){
             if(!vis[i])
             res|=dfs(adj,i,dest,vis);
+            if(res==true) return true;
         }
         return res;
     }
