@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0200-number-of-islands) |
@@ -362,12 +363,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
