@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2121-find-if-path-exists-in-graph) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Trie
 |  |
 | ------- |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
