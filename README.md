@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0630-course-schedule-iii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0630-course-schedule-iii) |
+| [0679-24-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0679-24-game) |
 | [0691-stickers-to-spell-word](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0691-stickers-to-spell-word) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0070-climbing-stairs) |
+| [0679-24-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0679-24-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1260-day-of-the-year) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0051-n-queens) |
+| [0679-24-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0679-24-game) |
 | [0691-stickers-to-spell-word](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0691-stickers-to-spell-word) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
