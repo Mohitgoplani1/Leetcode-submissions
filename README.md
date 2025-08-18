@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3799-unique-3-digit-even-numbers) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2121-find-if-path-exists-in-graph) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2416-evaluate-boolean-binary-tree) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Trie
 |  |
 | ------- |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-shift-2d-grid](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1386-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -369,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2121-find-if-path-exists-in-graph) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Sliding Window
 |  |
 | ------- |
