@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0068-text-justification) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0179-largest-number) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0136-single-number) |
 | [0691-stickers-to-spell-word](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0691-stickers-to-spell-word) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
