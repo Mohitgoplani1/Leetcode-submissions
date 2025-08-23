@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0691-stickers-to-spell-word) |
 | [0726-number-of-atoms](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0726-number-of-atoms) |
 | [0965-unique-email-addresses](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0965-unique-email-addresses) |
+| [1205-defanging-an-ip-address](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1260-day-of-the-year) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
