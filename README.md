@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1603-running-sum-of-1d-array](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1603-running-sum-of-1d-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1635-number-of-good-pairs](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1635-number-of-good-pairs) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1603-running-sum-of-1d-array) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Tree
