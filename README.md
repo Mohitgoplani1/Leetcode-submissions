@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0386-lexicographical-numbers) |
 | [0463-island-perimeter](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0463-island-perimeter) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0542-01-matrix) |
@@ -536,7 +538,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0922-possible-bipartition](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0922-possible-bipartition) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2121-find-if-path-exists-in-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
