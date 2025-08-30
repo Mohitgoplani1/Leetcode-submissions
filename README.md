@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0205-isomorphic-strings) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0051-n-queens](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0055-jump-game) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0130-surrounded-regions](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0200-number-of-islands) |
