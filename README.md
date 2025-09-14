@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0691-stickers-to-spell-word) |
 | [0726-number-of-atoms](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0726-number-of-atoms) |
 | [0965-unique-email-addresses](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0965-unique-email-addresses) |
+| [1006-vowel-spellchecker](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1006-vowel-spellchecker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0691-stickers-to-spell-word) |
 | [0726-number-of-atoms](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0726-number-of-atoms) |
 | [0965-unique-email-addresses](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0965-unique-email-addresses) |
+| [1006-vowel-spellchecker](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1006-vowel-spellchecker) |
 | [1205-defanging-an-ip-address](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1260-day-of-the-year) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0945-snakes-and-ladders) |
 | [0965-unique-email-addresses](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0965-unique-email-addresses) |
+| [1006-vowel-spellchecker](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1006-vowel-spellchecker) |
 | [1036-rotting-oranges](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
