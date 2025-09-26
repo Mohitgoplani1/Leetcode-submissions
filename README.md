@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0177-nth-highest-salary](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0177-nth-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0180-consecutive-numbers) |
+| [0184-department-highest-salary](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0184-department-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0584-find-customer-referee) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
