@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2066-add-minimum-number-of-rungs](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2066-add-minimum-number-of-rungs) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1635-number-of-good-pairs](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1635-number-of-good-pairs) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2066-add-minimum-number-of-rungs](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2066-add-minimum-number-of-rungs) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2280-count-good-triplets-in-an-array) |
