@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2478-longest-nice-subarray](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2478-longest-nice-subarray) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2317-count-collisions-on-a-road](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2317-count-collisions-on-a-road) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2479-meeting-rooms-iii) |
 | [2886-faulty-keyboard](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2886-faulty-keyboard) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1635-number-of-good-pairs) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3001-apply-operations-to-maximize-score) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Enumeration
