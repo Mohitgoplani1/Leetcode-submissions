@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0203-remove-linked-list-elements](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/0203-remove-linked-list-elements) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Mohitgoplani1/Leetcode-submissions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
